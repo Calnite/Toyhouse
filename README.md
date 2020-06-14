@@ -2,7 +2,7 @@
 Toyhouse CSS and HTML by Calnite
 
 Don't copy, claim or retribute my code
-    - You can share my Toyhouse code page, but never give anyone my raw code!
+- You can share my Toyhouse code page, but never give anyone my raw code!
 
 Don't remove my credit
     - Bro that would be really shitty of you.<br>
