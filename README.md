@@ -1,7 +1,7 @@
 # Toyhouse Codes
 > Toyhouse CSS and HTML by [calnite](https://toyhou.se/Calnite) / [Calscode](https://toyhou.se/CalsCode)
 
->> Please read my rules before using
+> Please read my rules before using
 
 
 ## F2U Rules
