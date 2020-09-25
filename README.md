@@ -1,6 +1,6 @@
 # Toyhouse Codes
 > Toyhouse CSS and HTML by [calnite](https://toyhou.se/Calnite) / [Calscode](https://toyhou.se/CalsCode)
-<br> Please read my rules before using
+<br> Only for Toyhouse, please read my rules before using
 
 
 ## F2U Rules
