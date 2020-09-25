@@ -16,7 +16,7 @@ RULES AND INFO: https://calnite.wixsite.com/info/coderules
         
         
         <div class="col-sm-4">
-          <!-------------------------- CHANGE IMG HERE ---------------------------->
+            <!-------------------------- IMG - REPLACE # WITH URL ---------------------------->
             <div class="col-sm-11 mx-auto" style="background: url(#) center; background-size:cover; height:300px;"></div>
             <div class="col-sm-9 mx-auto mb-4 text-center py-4">
                 <!-------------------------- CHANGE IMG HERE ---------------------------->
@@ -33,7 +33,7 @@ RULES AND INFO: https://calnite.wixsite.com/info/coderules
         
         
         <div class="col-sm-4">
-          <!-------------------------- CHANGE IMG HERE ---------------------------->
+            <!-------------------------- IMG - REPLACE # WITH URL ---------------------------->
             <div class="col-sm-11 mx-auto" style="background: url(#) center; background-size:cover; height:300px;"></div>
             <div class="col-sm-9 mx-auto mb-4 text-center py-4">
                 <!-------------------------- ADD DIRECTORY LINK HERE ---------------------------->
@@ -50,7 +50,7 @@ RULES AND INFO: https://calnite.wixsite.com/info/coderules
         
         
         <div class="col-sm-4">
-            <!-------------------------- CHANGE IMG HERE ---------------------------->
+            <!-------------------------- IMG - REPLACE # WITH URL ---------------------------->
             <div class="col-sm-11 mx-auto" style="background: url(#) center; background-size:cover; height:300px;"></div>
             <div class="col-sm-9 mx-auto mb-2 text-center py-4">
                 <!-------------------------- ADD DIRECTORY LINK HERE ---------------------------->
