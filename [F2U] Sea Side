@@ -1,0 +1,150 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+
+<div class="container my-5 text-white" style="box-shadow: 0 0 20px rgba(0,0,0,.6); overflow:hidden;">
+    <div class="row">
+        <!-------------- BACKGROUND IMG ------------------->
+        <div class="col-lg-7 bg-white py-4 pl-4 pr-0" style="background: url(#) center; background-size:cover;">
+            <div class="col-sm-12 p-4"  style="background:rgba(0,0,0,.6); height:480px;">
+                <h1 class="display-3 text-uppercase"><b>name</b></h1>
+            </div>
+        </div>
+        <!-------------- BACKGROUND COLOR ------------------->
+        <div class="col-lg-5  pl-0" style="background:#353535;">
+            <div class="col-12 my-4 p-2 row no-gutters" style="background:rgba(0,0,0,.4); min-height:450px;">
+                
+                <!-------------- NAVIGATION MENU - CHANGE BG COLOR FOR EACH BUTTONS ------------------->
+                <div class="col-lg-12 mb-4 row justify-content-center">
+                    <ul class="nav">
+                    <li class="nav-item">
+                        <a class="btn btn-sm btn-default border-0 nav-link m-2 text-white" href="#one" data-toggle="tab" style="background:#3d6772;"><i class="far fa-user mt-1"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-sm btn-default border-0  nav-link m-2 text-white" href="#two" data-toggle="tab" style="background:#3d6772;"><i class="far fa-book mt-1"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-sm btn-default border-0 nav-link m-2 text-white" href="#three" data-toggle="tab" style="background:#3d6772;"><i class="far fa-heart mt-1"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <!-------------- DONT REMOVE CREDIT ------------------->
+                        <a class="btn btn-sm btn-default border-0 nav-link m-2 text-white" target="_blank" href="https://toyhou.se/CalsCode" style="background:#3d6772;"><i class="far fa-barcode-read mt-1"></i></a>
+                    </li>
+                    </ul>
+                </div>
+                
+                
+                <div class="col-lg-12 px-2 tab-content">
+                    
+                <!-------------- BIO TAB ------------------->
+                <div class="text-justify p-2 tab-pane active show" style="height:390px; overflow:auto;" id="one">
+                    
+                    <!-------------- HEADER ------------------->
+                    <h1 class="display-4  text-uppercase mb-0" style="font-size:2em;"><b>bio</b></h1>
+                    <hr class="mt-0" style="border-top:dashed 1px; color:#aaa;">
+                    
+                    <!-------------- BIO CONTENT ------------------->
+                    <p class="mt-0 mb-1"><b>Age</b>
+                    <span class="pull-right">content</span></p>
+                    <p class="mt-0 mb-1"><b>Gender</b>
+                    <span class="pull-right">content</span></p>
+                    <p class="mt-0 mb-1"><b>Orientation</b>
+                    <span class="pull-right">content</span></p>
+                    <p class="mt-0 mb-1"><b>Height</b>
+                    <span class="pull-right">content</span></p>
+                    <p class="mt-0 mb-1"><b>Build</b>
+                    <span class="pull-right">content</span></p>
+                    <p class="mt-0 mb-1"><b>Role</b>
+                    <span class="pull-right">content</span></p>
+                    <p class="mt-0 mb-4"><b>Status/Value</b>
+                    <span class="pull-right">content</span></p>
+                    
+                    <!-------------- PERSONALITY ------------------->
+                    <h1 class="display-4 text-uppercase mb-0" style="font-size:1.5em;">Personality</h1>
+                    <hr class="my-0" style="border-top:dashed 1px; color:#aaa;">
+                    
+                    <!-------------- PERSONALITY CONTENT ------------------->
+                    <p class="mt-3 text-center">
+                        <span class="badge-pill" style="background:#3d6772;">add</span>
+                        <span class="badge-pill" style="background:#3d6772;">some</span>
+                        <span class="badge-pill" style="background:#3d6772;">adjective</span>
+                    </p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                </div>
+                
+                
+                <!-------------- STORY TAB ------------------->
+                <div class="text-justify p-2 tab-pane" style="height:390px; overflow:auto;" id="two">
+                    
+                    <!-------------- HEADER ------------------->
+                    <h1 class="display-4  text-uppercase mb-0" style="font-size:2em;"><b>story</b></h1>
+                    <hr class="mt-0" style="border-top:dashed 1px; color:#aaa;">
+                    
+                    <!-------------- STORY CONTENT ------------------->
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                </div>
+                
+                
+                <!-------------- RELATIONSHIPS TAB ------------------->
+                <div class="text-justify p-2 tab-pane" style="height:390px; overflow:auto;" id="three">
+                    
+                    <!-------------- HEADER ------------------->
+                    <h1 class="display-4  text-uppercase mb-0" style="font-size:2em;"><b>relationships</b></h1>
+                    <hr class="mt-0" style="border-top:dashed 1px; color:#aaa;">
+                    <div class="row no-gutters">
+                        
+                        
+                        <!-------------- CHARACTER 1 ------------------->
+                        <div class="col-sm-4 my-2"><img src="#" style="max-height:100px;"></div>
+                        <div class="col-sm-8 my-2 px-2" style="max-height:100px; overflow:auto;">
+                            <p class="display-4 text-uppercase mb-0" style="font-size:1.5em;">
+                                <a href="#" style="color:#3d6772;">name</a></p>
+                            <hr class="mt-0 mb-1" style="border-top:dashed 1px; color:#aaa;">
+                            <p>Relationship</p>
+                            <p>
+                            <!-------------- FAS = FILL / FAR = EMPTY ------------------->
+                            <i class="fas fa-heart"></i>
+                            <i class="fas fa-heart"></i>
+                            <i class="far fa-heart"></i>
+                            <i class="far fa-heart"></i>
+                            <i class="far fa-heart"></i>
+                            </p>
+                        </div>
+                        
+                        
+                        <!-------------- CHARACTER 2 ------------------->
+                        <div class="col-sm-4 my-2"><img src="#" style="max-height:100px;"></div>
+                        <div class="col-sm-8 my-2 px-2" style="max-height:100px; overflow:auto;">
+                            <p class="display-4 text-uppercase mb-0" style="font-size:1.5em;">
+                            <a href="#" style="color:#3d6772;">name</a></p>
+                            <hr class="mt-0 mb-1" style="border-top:dashed 1px; color:#aaa;">
+                            <p>Relationship</p>
+                            <p>
+                            <!-------------- FAS = FILL / FAR = EMPTY ------------------->
+                            <i class="fas fa-heart"></i>
+                            <i class="fas fa-heart"></i>
+                            <i class="far fa-heart"></i>
+                            <i class="far fa-heart"></i>
+                            <i class="far fa-heart"></i>
+                            </p>
+                        </div>
+                        
+                        <!-------------- ADD MORE BEFORE THIS LINE ------------------->
+                    </div>
+                </div>
+                
+                
+            </div>
+            
+            </div>
+        </div>
+    </div>
+</div>
+@Calnite
