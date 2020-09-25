@@ -3,7 +3,7 @@ Toyhouse CSS and HTML by Calnite / Calscode <br>
 Please read my rules before using
 
 
-# F2U Rules
+! F2U Rules
 
 ❖ don't copy, claim or retribute my code
 - you can share my Toyhouse coding page/folders, but never give anyone my raw code
