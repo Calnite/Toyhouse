@@ -1,17 +1,48 @@
-# Toyhouse
-Toyhouse CSS and HTML by Calnite
+# Toyhouse Codes
+Toyhouse CSS and HTML by Calnite / Calscode
+Please read my rules before using
 
-Don't copy, claim or retribute my code
-- You can share my Toyhouse code page, but never give anyone my raw code!
 
-Don't remove my credit
-- Bro that would be really shitty of you.
-- Even if you edit the code, you have to credit me.
+# F2U Rules
 
-Make sure to leave a comment on my forum if you use my code
-- I'm always curious to see what you did with it, nothing personal  :^)
+❖ don't copy, claim or retribute my code
+- you can share my Toyhouse coding page/folders, but never give anyone my raw code
 
-You can always as me questions about the code
-- But don't ask me to make an entire new code for you
+❖ don't remove my credit
+- even if you edit the code, you have to credit me
+- you can move it anywhere, as long as it's still visible and clickable
 
-Disable WYSIWYG or the code will break
+❖ you can edit my code for your personal usage, but don't retribute them
+
+❖ reviews and feedback are appreciated
+
+❖ you can always ask me questions about the code
+- don't ask me to make an entirely new code for you, you can request or commission when I'm open
+
+
+# P2U Rules
+
+❖ P2U/PWYW Codes are for the purchaser's use only
+
+❖ I don't refund for these codes
+
+❖ don't copy, claim or retribute my code
+- you can share my Toyhouse coding page/folders, but never give anyone my raw code
+
+❖ don't remove my credit
+- even if you edit the code, you have to credit me
+- you can move it anywhere, as long as it's still visible and clickable
+
+❖ you can edit my code for your personal usage, but don't retribute them
+
+❖ you will get an import link with editable colors and background for CSS
+
+
+# Request Info 
+
+❖ requested templates will always be put up as F2U template
+
+❖ if I can't do it or if it's to much work I will decline
+
+# Custom commissions Info
+https://calnite.wixsite.com/info/code
