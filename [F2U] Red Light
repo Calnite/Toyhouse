@@ -1,0 +1,63 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+
+<div class="container my-5">
+        <!--------------- CHANGE BACKGROUND IMG HERE ---------------------->
+        <div class="col-sm-12 p-4 p-lg-5" style="background: url(#) center fixed; background-size:cover; border-radius:40px;">
+            <div class="col-sm-12 p-2 p-lg-4" style="background: rgba(200,200,200,.8); border-radius:30px;">
+                
+                <div class="row py-2 px-3">
+                    
+                    <!--------------- BIO ---------------------->
+                    <div class="col-12 col-lg mx-sm-1 p-2 p-lg-4 bg-white text-uppercase text-dark" style="border-radius: 20px 0 0 20px">
+                        <h1 class="display-4">name</h1>
+                        <hr class="my-2">
+                        <p class="mt-0">Age
+                        <span class="badge-pill pull-right text-white" style="background:#d8315b;">content</span>
+                        <p class="mt-0">Gender
+                        <span class="badge-pill pull-right text-white" style="background:#d8315b;">content</span>
+                        <p class="my-0">Pronoun
+                        <span class="badge-pill pull-right text-white" style="background:#d8315b;">content</span>
+                        
+                        <!--------------- REPLACE THIS WITH SOMETHING ELSE IF USED FOR CHARACTERS ---------------------->
+                        <hr class="my-2">
+                        <p class="mt-0">Commission
+                        <span class="badge-pill pull-right text-white" style="background:#d8315b;">content</span>
+                        <p class="mt-0">Art Trade
+                        <span class="badge-pill pull-right text-white" style="background:#d8315b;">content</span>
+                        <p class="mt-0">Request
+                        <span class="badge-pill pull-right text-white" style="background:#d8315b;">content</span>
+                    </div>
+                    
+                    <!--------------- CHANGE CENTER IMG HERE ---------------------->
+                    <div class="col-12 col-lg mx-sm-1" style="border: solid 5px; border-color:#fff; background: url(#) center; background-size:cover; height:320px;">
+                        <div class="row no-gutters text-white" style="margin-top:260px;">
+                        <a class="col m-1 btn btn-default border-0" style="background:#d8315b;"><i class="fab fa-lg fa-instagram"></i></a>
+                        <a class="col m-1 btn btn-default border-0" style="background:#d8315b;"><i class="fab fa-lg fa-deviantart"></i></a>
+                        <a class="col m-1 btn btn-default border-0" style="background:#d8315b;"><i class="fab fa-lg fa-twitter"></i></a>
+                        <a class="col m-1 btn btn-default border-0" style="background:#d8315b;"><i class="far fa-lg fa-heart-circle"></i></a>
+                        
+                        <!--------------- DONT REMOVE CREDIT ---------------------->
+                        <a class="col m-1 btn btn-default border-0" href="https://toyhou.se/CalsCode" target="_blank" style="background:#d8315b;" data-toggle="tooltip"  data-placement="bottom" title="Code by Calnite"><i class="fal fa-barcode-read"></i></a>
+                        </div>
+                    </div>
+                    
+                    <!--------------- ABOUT ---------------------->
+                    <div class="col-12 col-lg bg-white text-dark p-2 p-lg-4 mx-sm-1" style="border-radius: 0 20px 20px 0; height:320px;">
+                        <h1 class="display-4 pull-right">ABOUT</h1>
+                        <hr class="my-2">
+                        <div style="height:230px; overflow:auto;">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+</div>
