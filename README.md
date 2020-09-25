@@ -3,7 +3,8 @@ Toyhouse CSS and HTML by Calnite / Calscode <br>
 Please read my rules before using
 
 
-! F2U Rules
+F2U Rules
+-------------------
 
 ❖ don't copy, claim or retribute my code
 - you can share my Toyhouse coding page/folders, but never give anyone my raw code
@@ -20,7 +21,8 @@ Please read my rules before using
 - don't ask me to make an entirely new code for you, you can request or commission when I'm open
 
 
-# P2U Rules
+P2U Rules
+==============
 
 ❖ P2U/PWYW Codes are for the purchaser's use only
 
