@@ -1,0 +1,111 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+
+<div class="container my-5">
+    <div class="row">
+        <!--------------------- FRIST BOX ------------------------->
+        <div class="col-sm-4 my-4 text-center text-white">
+            
+            <!--------------------- CHANGE ICON HERE ------------------------->
+            <img src="#" class="rounded-circle img-thumbnail border-0" style="height:250px; z-index:1;">
+            
+            <!--------------------- CHANGE BACKGROUND COLOR HERE ------------------------->
+            <div class="col-12 px-2 rounded" style="margin-top:-150px; padding-top:170px; padding-bottom:1em; background:#f4acb7;">
+                
+                <!--------------------- LINK AND NAME ------------------------->
+                <a href="#" class="text-white text-uppercase display-4">Name</a>
+                <hr>
+                <!--------------------- CHANGE BACKGROUND AND FONT COLOR OF BADGE ------------------------->
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#f4acb7;">write</span>
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#f4acb7;">something</span>
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#f4acb7;">here</span>
+                
+                <div class="my-3 p-2 text-justify" style="height:150px; overflow:auto;">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                </div>
+                <p>
+                <i class="fas fa-flower"></i>
+                <i class="fas fa-flower"></i>
+                <i class="fas fa-flower"></i>
+                <i class="fal fa-flower"></i>
+                <i class="fal fa-flower"></i>
+                </p>
+            </div>
+        </div>
+        
+        
+        <!--------------------- SECOND BOX ------------------------->
+        <div class="col-sm-4 my-4 text-center text-white">
+            
+            <!--------------------- CHANGE ICON HERE ------------------------->
+            <img src="#" class="rounded-circle img-thumbnail border-0" style="height:250px; z-index:1;">
+            
+            <!--------------------- CHANGE BACKGROUND COLOR HERE ------------------------->
+            <div class="col-12 px-2 rounded" style="margin-top:-150px; padding-top:170px; padding-bottom:1em; background:#fcddbc;">
+                
+                <!--------------------- LINK AND NAME ------------------------->
+                <a href="#" class="text-white text-uppercase display-4">Name</a>
+                <hr>
+                <!--------------------- CHANGE BACKGROUND AND FONT COLOR OF BADGE ------------------------->
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#ffcdb2;">write</span>
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#ffcdb2;">something</span>
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#ffcdb2;">here</span>
+                <div class="my-3 p-2 text-justify" style="height:150px; overflow:auto;">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                </div>
+                <p>
+                <i class="fas fa-flower"></i>
+                <i class="fas fa-flower"></i>
+                <i class="fas fa-flower"></i>
+                <i class="fal fa-flower"></i>
+                <i class="fal fa-flower"></i>
+                </p>
+            </div>
+        </div>
+        
+        
+        <!--------------------- THIRD BOX ------------------------->
+        <div class="col-sm-4 my-4 text-center text-white">
+            
+            <!--------------------- CHANGE ICON HERE ------------------------->
+            <img src="#" class="rounded-circle img-thumbnail border-0" style="height:250px; z-index:1;">
+            
+            <!--------------------- CHANGE BACKGROUND COLOR ------------------------->
+            <div class="col-12 px-2 rounded" style="margin-top:-150px; padding-top:170px; padding-bottom:1em; background:#b2dbbf;">
+                
+                <!--------------------- LINK AND NAME ------------------------->
+                <a href="#" class="text-white text-uppercase display-4">Name</a>
+                <hr>
+                <!--------------------- CHANGE BACKGROUND AND FONT COLOR OF BADGE ------------------------->
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#b2dbbf;">write</span>
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#b2dbbf;">something</span>
+                <span class="badge-pill py-1 px-2" style="background:#fff; color:#b2dbbf;">here</span>
+                <div class="my-3 p-2 text-justify" style="height:150px; overflow:auto;">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                </div>
+                <p>
+                <i class="fas fa-flower"></i>
+                <i class="fas fa-flower"></i>
+                <i class="fas fa-flower"></i>
+                <i class="fal fa-flower"></i>
+                <i class="fal fa-flower"></i>
+                </p>
+            </div>
+        </div>
+        
+        <!--------------------- ADD MORE BOX BELOW ------------------------->
+        
+
+    </div>
+    <!--------------------- DONT REMOVE CREDIT ------------------------->
+    <p class="pull-right"><a href="https://toyhou.se/CalsCode" target="_blank" data-toggle="tooltip" title="code by calnite"><i class="fas fa-barcode-read fa-xs text-muted my-2"></i></a></p>
+</div>
