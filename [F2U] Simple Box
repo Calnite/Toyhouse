@@ -1,0 +1,73 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+
+<div class="container p-4 my-5 bg-white" style="box-shadow: 0px 0px 10px rgba(0,0,0,.5);">
+    <div class="row no-gutters">
+      
+        <div class="col-sm-12 p-4 mb-4">
+            <h1 class="display-3 text-center text-uppercase" style="font-weight:600; letter-spacing:1px;"> header</h1>
+        </div>
+        
+        
+        <div class="col-sm-4">
+          <!-------------------------- CHANGE IMG HERE ---------------------------->
+            <div class="col-sm-11 mx-auto" style="background: url(#) center; background-size:cover; height:300px;"></div>
+            <div class="col-sm-9 mx-auto mb-4 text-center py-4">
+                <!-------------------------- CHANGE IMG HERE ---------------------------->
+                <h1 class="text-uppercase my-2"><a href="#" style="color:#222;">Name</a></h1>
+                <hr>
+                <p style="font-weight:300; font-size:13px; letter-spacing:1px;">Write some short description or quotes.</p>
+                <p class="mt-5" style="font-weight:300; font-size:14px; letter-spacing:1px;">
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                </p>
+            </div>
+        </div>
+        
+        
+        <div class="col-sm-4">
+          <!-------------------------- CHANGE IMG HERE ---------------------------->
+            <div class="col-sm-11 mx-auto" style="background: url(#) center; background-size:cover; height:300px;"></div>
+            <div class="col-sm-9 mx-auto mb-4 text-center py-4">
+                <!-------------------------- ADD DIRECTORY LINK HERE ---------------------------->
+                <h1 class="text-uppercase my-2"><a href="#" style="color:#222;">Name</a></h1>
+                <hr>
+                <p style="font-weight:300; font-size:13px; letter-spacing:1px;">Write some short description or quotes.</p>
+                <p class="mt-5" style="font-weight:300; font-size:14px; letter-spacing:1px;">
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                </p>
+            </div>
+        </div>
+        
+        
+        <div class="col-sm-4">
+            <!-------------------------- CHANGE IMG HERE ---------------------------->
+            <div class="col-sm-11 mx-auto" style="background: url(#) center; background-size:cover; height:300px;"></div>
+            <div class="col-sm-9 mx-auto mb-2 text-center py-4">
+                <!-------------------------- ADD DIRECTORY LINK HERE ---------------------------->
+                <h1 class="text-uppercase my-2"><a href="#" style="color:#222;">Name</a></h1>
+                <hr>
+                <p style="font-weight:300; font-size:13px; letter-spacing:1px;">Write some short description or quotes.</p>
+                <p class="mt-5" style="font-weight:300; font-size:14px; letter-spacing:1px;">
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                    <span class="badge badge-pill badge-primary mx-1 text-white" style="background-color:#2a9d8f;">adjective</span>
+                </p>
+            </div>
+        </div>
+        
+        <!-------------------------- ADD MORE ABOVE ---------------------------->
+        
+        <!-------------------------- DO NOT REMOVE CREDIT ---------------------------->
+        <p class="pull-right" data-toggle="tooltip" title="code by calnite"><a href="/CalsCode" target="_blank" class="text-dark"><i class="fal fa-barcode-read"></i></a></p>
+    </div>
+</div>
