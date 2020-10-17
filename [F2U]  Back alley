@@ -1,0 +1,29 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+<!--------------- BACKGROUND IMG - REPLACE # WITH IMG URL ----------------->
+<div class="container py-5 my-5" style="background:url(#) center fixed; background-size: cover; adjust:Y2Fs; border-radius:25px; box-shadow: 0 0 15px rgba(0,0,0,.2);">
+    <div class="row my-5">
+        <div class="col-sm-6 p-5 text-right text-muted bg-light" style="border-radius:0 25px 25px 0;">
+            <h1 class="display-4 text-uppercase" style="letter-spacing:8px;">Name</h1>
+            <hr>
+            <p class="px-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. </p>
+            <p>
+                <span class="btn btn-outline-secondary px-0 m-2" base="Y2Fs" style="border-radius:50%; height:45px; width:45px;"><a href="#" target="_blank"><i class="fab fa-2x fa-instagram text-muted"></i></a></span>
+                <span class="btn btn-outline-secondary px-0 m-2" base="Y2Fs" style="border-radius:50%; height:45px; width:45px;"><a href="#" target="_blank"><i class="fab fa-2x fa-deviantart text-muted"></i></a></span>
+                <span class="btn btn-outline-secondary px-0 m-2" base="Y2Fs" style="border-radius:50%; height:45px; width:45px;"><a href="#" target="_blank"><i class="fab fa-2x fa-twitter text-muted"></i></a></span>
+                
+                <!--------------- DO NOT REMOVE CREDIT ----------------->
+                <span class="btn btn-outline-secondary px-0 m-2" base="Y2Fs" style="border-radius:50%; height:45px; width:45px;"><a href="https://toyhou.se/CalsCode" target="_blank" data-toggle="tooltip" title="code by calnite"><i class="fal fa-2x fa-barcode text-muted"></i></a></span>
+            </p>
+        </div>
+        <div class="col-sm-6 align-items-center justify-content-center">
+            <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/23955441_OeFgvQ2jlFA3u6v.jpg?1594057066" class="img-thumbnail rounded-circle broder-0" style="height:250px;">
+        </div>
+    </div>
+</div>
