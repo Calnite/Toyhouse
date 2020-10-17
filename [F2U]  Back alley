@@ -23,7 +23,8 @@ RULES AND INFO: https://calnite.wixsite.com/info/coderules
             </p>
         </div>
         <div class="col-sm-6 align-items-center justify-content-center">
-            <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/23955441_OeFgvQ2jlFA3u6v.jpg?1594057066" class="img-thumbnail rounded-circle broder-0" style="height:250px;">
+            <!------------------- ICON IMG - REPLACE # WITH IMG URL -------------------->
+            <img src="#" class="img-thumbnail rounded-circle broder-0" style="height:250px;">
         </div>
     </div>
 </div>
