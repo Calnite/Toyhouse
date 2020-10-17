@@ -1,0 +1,70 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+<div class="container my-5 px-4 pt-4 pb-1 text-muted bg-white" style="box-shadow: 0 0 10px rgba(0,0,0,.5)">
+    <div class="col-sm-12 pt-4 px-0" style="background:#f8f9fa;">
+      
+      <!----------------- HEADER ------------------>
+        <div class="col-sm-12" style="letter-spacing:5px;">
+             <h1 class="display-4 text-center text-uppercase p-4">Checklist</h1>
+        </div>
+        
+     <table base="Y2Fs" class="table table-hover text-center border-0">
+  <tdead >
+    <!-------------------  TABLE TITLES ------------------>
+    <tr class="text-white text-uppercase " style="letter-spacing:4px; background:#d2d2cf;">
+      <td class="py-3 w-25">Name</td>
+      <td class="py-3 w-25">Type</td>
+      <td class="py-3">Sketch</td>
+      <td class="py-3">Lineart</td>
+      <td class="py-3">Color</td>
+      <td class="py-3">Render</td>
+    </tr>
+  </tdead>
+  <tbody>
+    
+    <!----------------- ROW 1 ------------------>
+    <tr style="border-bottom:1px solid #e2e2df;">
+      <td>Name / @/User</td>
+      <td>Fullbody</td>
+      <!----------- IF UNCHECK LEAVE BLANK ----------->
+      <td><i class="far fa-check"></i></td>
+      <td><i class="far fa-check"></i></td>
+      <td><i class="far fa-check"></i></td>
+      <td><i class="far fa-check"></i></td>
+    </tr>
+    
+    <!----------------- ROW 1 ------------------>
+    <tr style="border-bottom:1px solid #e2e2df;">
+      <td>Name / @/User</td>
+      <td>Icon</td>
+      <!----------- IF UNCHECK LEAVE BLANK ----------->
+      <td><i class="far fa-check"></i></td>
+      <td><i class="far fa-check"></i></td>
+      <td><i class="far fa-check"></i></td>
+      <td></td>
+    </tr>
+    
+    <!----------------- ROW 1 ------------------>
+    <tr style="border-bottom:1px solid #e2e2df;">
+      <td>Name / @/User</td>
+      <td>Chibi</td>
+      <!----------- IF UNCHECK LEAVE BLANK ------------>
+      <td><i class="far fa-check"></i></td>
+      <td><i class="far fa-check"></i></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <!----------------- ADD MORE ABOVE ------------------>
+  </tbody>
+</table>
+</div>
+ <!----------------- DO NOT REMOVE CREDIT ------------------>
+<p class="text-center my-2" data-toggle="tooltip" title="code by calnite"><a href="/CalsCode" target="_blank" class="text-muted"><i class="fal fa-xs fa-barcode-read"></i></a></p>
+</div>
