@@ -1,0 +1,32 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+
+RULES AND INFO: https://calnite.wixsite.com/info/coderules
+
+--------------------------------->
+
+<!------------------- BACKGROUND IMG - REPLACE # WITH IMG URL -------------------->
+<div class="container my-5" style="background:url(#) center fixed; background-size: cover; border-radius:20px; box-shadow: 0 0 15px rgba(0,0,0,.2)">
+    <div class="row">
+        <div class="col-sm-6 px-4 py-5 mx-auto text-center text-muted bg-light">
+            
+            <!------------------- ICON IMG - REPLACE # WITH IMG URL -------------------->
+            <img src="#" class="rounded-circle img-thumbnail" style="height:200px;">
+            <h1 class="display-4 text-uppercase my-4" style="letter-spacing:8px;">Name</h1>
+            <p class=" text-uppercase" style="letter-spacing:5px;"> AGE | Gender | pronoun</p>
+            <hr style="margin: 2em 10em;">
+            <p class="text-justify px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+            <p>
+                <span class="btn btn-outline-secondary px-0 m-2" style="border-radius:50%; height:45px; width:45px;"><a href="#" target="_blank"><i class="fab fa-2x fa-instagram text-muted"></i></a></span>
+                <span class="btn btn-outline-secondary px-0 m-2" style="border-radius:50%; height:45px; width:45px;"><a href="#" target="_blank"><i class="fab fa-2x fa-deviantart text-muted"></i></a></span>
+                <span class="btn btn-outline-secondary px-0 m-2" style="border-radius:50%; height:45px; width:45px;"><a href="#" target="_blank"><i class="fab fa-2x fa-twitter text-muted"></i></a></span>
+                
+                <!------------------- ADD MORE SOCIAL MEDIA ABOVE -------------------->
+                
+                <!------------------- DO NOT REMOVE CREDIT -------------------->
+                <span class="btn btn-outline-secondary px-0 m-2" style="border-radius:50%; height:45px; width:45px;"><a href="https://toyhou.se/CalsCode" target="_blank" data-toggle="tooltip" title="code by calnite"><i class="fal fa-2x fa-barcode text-muted"></i></a></span>
+            </p>
+        </div>
+    </div>
+</div>
