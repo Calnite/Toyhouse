@@ -1,0 +1,242 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE
+https://toyhou.se/CalsCode/
+
+header and footer background: #1f1f1f
+body background: #333533
+font color: #999999
+
+--------------------------------->
+
+
+<div class="container-fluid p-0" style="background:#333533; color:#999999; box-shadow:0 0 10px;">
+    <div class="row no-gutters">
+        <div class="col-sm-2 pl-5 py-5 pr-0 text-center" style="background:#1f1f1f;">
+          <!---------- HEADER ICON - REPLACE # WITH IMG URL ------------>
+          <img src="#" class="img-thumbnail rounded-0" style="background:transparent; max-height:200px; border:1px solid #aaaaaa;"></div>
+        
+        <div class="col-sm-10 p-5" style="background:#1f1f1f;">
+            <h1 class="display-1 text-uppercase text-white" style="letter-spacing:10px;">header</h1>
+            <h1 class="display-4 mb-5">Subheader</h1>
+            <h1 class="display-4" style="font-size:1.1em;"><i>"Add some Quotes or a short description."</i></h1>
+        </div>
+        
+        <div class="col-12"  style="border-bottom:5px solid #f5cb5c;"/>
+        <div class="col-sm-3 pl-4 py-4">
+            <div class="col-12 p-0">
+            <h1 class="display-4 text-uppercase py-2 mb-2 font-weight-normal" style="letter-spacing:4px;color:#f5cb5c;">Staff</h1>
+            </div>
+            <div class="col-12 row no-gutters p-0" style="max-height:285px; overflow:auto;">
+                
+                <!---------- PROFILE PICTURE - REPLACE # WITH IMG URL ------------>
+                <div class="col-4 mb-2"><img src="#" class="img-thumbnail rounded-0" style="background:#1f1f1f;"></div>
+                <div class="col-8 mb-2 px-2">
+                  <!---------- NAME AND LINK ------------>
+                  <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#">Name</a>
+                  <!---------- LINK - REPLACE # WITH URL ------------>
+                  <span class="pull-right"><a style="color:#aaaaaa;" href="#" ><i class="far fa-xs fa-link"></i></a></span></h1>
+                  <h1 class="display-4" style="font-size:1.1em;">Founder</h1>
+                </div>
+                
+                <!---------- PROFILE PICTURE - REPLACE # WITH IMG URL ------------>
+                <div class="col-4 mb-2"><img src="#" class="img-thumbnail rounded-0" style="background:#1f1f1f;"></div>
+                <div class="col-8 mb-2 px-2">
+                  <!---------- NAME AND LINK ------------>
+                  <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a>
+                  <!---------- LINK - REPLACE # WITH URL ------------>
+                  <span class="pull-right"><a style="color:#aaaaaa;" href="#" ><i class="far fa-xs fa-link"></i></a></span></h1>
+                  <h1 class="display-4" style="font-size:1.1em;">Admin</h1>
+                </div>
+                
+                <!---------- PROFILE PICTURE - REPLACE # WITH IMG URL ------------>
+                <div class="col-4 mb-2"><img src="#" class="img-thumbnail rounded-0" style="background:#1f1f1f;"></div>
+                <div class="col-8 mb-2 px-2">
+                  <!---------- NAME AND LINK ------------>
+                  <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a>
+                  <!---------- LINK - REPLACE # WITH URL ------------>
+                  <span class="pull-right"><a style="color:#aaaaaa;" href="#" ><i class="far fa-xs fa-link"></i></a></span></h1>
+                  <h1 class="display-4" style="font-size:1.1em;">Mod</h1>
+                </div>
+                
+                <!---------- PROFILE PICTURE - REPLACE # WITH IMG URL ------------>
+                <div class="col-4 mb-2"><img src="#" class="img-thumbnail rounded-0" style="background:#1f1f1f;"></div>
+                <div class="col-8 mb-2 px-2">
+                  <!---------- NAME AND LINK ------------>
+                  <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a>
+                  <!---------- LINK - REPLACE # WITH URL ------------>
+                  <span class="pull-right"><a style="color:#aaaaaa;" href="#" ><i class="far fa-xs fa-link"></i></a></span></h1>
+                  <h1 class="display-4" style="font-size:1.1em;">Mod</h1>
+                </div>
+                
+                <!---------- PROFILE PICTURE - REPLACE # WITH IMG URL ------------>
+                <div class="col-4 mb-sm-0 mb-2"><img src="#" class="img-thumbnail rounded-0" style="background:#1f1f1f;"></div>
+                <div class="col-8 mb-sm-0 mb-2 px-2">
+                  <!---------- NAME AND LINK ------------>
+                  <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a>
+                  <!---------- LINK - REPLACE # WITH URL ------------>
+                  <span class="pull-right"><a style="color:#aaaaaa;" href="#" ><i class="far fa-xs fa-link"></i></a></span></h1>
+                  <h1 class="display-4" style="font-size:1.1em;">Mod</h1>
+                </div>
+                <!---------- ADD MORE STAFF ABOVE------------>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 p-4">
+            <div class="col-12 px-0">
+            <h1 class="display-4 text-uppercase mb-2 py-2 font-weight-normal" style="letter-spacing:4px; color:#f5cb5c;">About</h1>
+            </div>
+            <div class="col-12 p-4 mb-2 text-justify" style="background:#1f1f1f; height:190px; overflow:auto;">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+            </div>
+            
+            <!---------- IMAGE - REPLACE # WITH IMG URL ------------>
+            <div class="col-12 h-25" style="background:url(#) center; background-size:cover;"/>
+        </div>
+        
+        <div class="col-sm-3 pr-4 py-4">
+            <div class="col-12 p-0">
+            <h1 class="display-4 text-uppercase mb-2 py-2 font-weight-normal" style="letter-spacing:4px; color:#f5cb5c;">Navigation</h1>
+            </div>
+            <div class="col-12 p-lg-0 p-2" style="height:285px; overflow:auto;">
+                <span class="d-block mb-2" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+                
+                <span class="d-block mb-2" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+                
+                <span class="d-block mb-2" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+                
+                <span class="d-block mb-2" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+                
+                <span class="d-block mb-2" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+                
+                <span class="d-block mb-2" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+                
+                <span class="d-block" style="background:#1f1f1f;">
+                    <!---------- NAME AND LINK ------------>
+                    <a href="#" class="btn-block btn btn-outline-secondary rounded-0 border-0">Link</a>
+                </span>
+            </div>
+        </div>
+        
+        <div class="col-sm-4 pl-4 py-4">
+            <div class="col-12 p-0">
+            <h1 class="display-4 text-uppercase py-2 mb-2 font-weight-normal" style="letter-spacing:4px; color:#f5cb5c;">Events</h1>
+            </div>
+            <div class="col-12 p-4 text-justify" style="background:#1f1f1f; height:195px; overflow:auto;">
+              
+                <!---------- EVENT NAME AND LINK ------------>
+                <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#"><i class="far fa-calendar-star fa-sm mr-3"></i>Title</a></h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris.</p>
+                
+                <!---------- EVENT NAME AND LINK ------------>
+                <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#"><i class="far fa-calendar-star fa-sm mr-3"></i>Title</a></h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a felis molestie, porttitor est eget, euismod mauris. Integer fermentum est vitae dui pretium fermentum. Fusce quis velit vel sem pellentesque iaculis congue non lorem. Aliquam vulputate lacus consequat, volutpat ex ut, blandit lacus. Sed egestas risus ut gravida blandit.</p>
+                
+                <!---------- ADD MORE EVENT ABOVE ------------>
+            </div>
+        </div>
+        
+        <div class="col-sm-4 p-4">
+            <div class="col-12 p-0">
+            <h1 class="display-4 text-uppercase py-2 mb-2 font-weight-normal" style="letter-spacing:4px; color:#f5cb5c;">Featured</h1>
+            <div class="col-sm-12 row no-gutters p-2 text-center" style="background:#1f1f1f; height:195px; overflow:auto;">
+                <div class="col-4 p-2">
+                    <!---------- CHARACTER ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- CHARACTER ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- CHARACTER ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+            </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-4 pr-4 py-4">
+            <div class="col-12 p-0">
+            <h1 class="display-4 text-uppercase py-2 mb-2 font-weight-normal" style="letter-spacing:4px; color:#f5cb5c;">Affiliations</h1>
+            <div class="col-sm-12 row no-gutters p-2 text-center" style="background:#1f1f1f; height:195px; overflow:auto;">
+                <div class="col-4 p-2">
+                    <!---------- WORLD ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- WORLD ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- WORLD ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- WORLD ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- WORLD ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <div class="col-4 p-2">
+                    <!---------- WORLD ICON - REPLACE # WITH IMG URL ------------>
+                    <img src="#" class="img-thumbnail rounded-0 mb-2" style="background:transparent; border:1px solid #aaaaaa;">
+                    <!---------- NAME AND LINK ------------>
+                    <h1 style="font-size:1.5em;"><a style="color:#aaaaaa;" href="#" >Name</a></h1>
+                </div>
+                
+                <!---------- ADD MORE ABOVE ------------>
+            </div>
+            </div>
+        </div>
+        
+        <div class="col-12" style="background:#1f1f1f; border-top:5px solid #f5cb5c;">
+        <!---------- DO NOT REMOVE CREDIT ------------>
+        <p class="text-center py-2"><a href="https://toyhou.se/CalsCode" target="_blank" data-toggle="tooltip" title="code by calnite" class="text-white"><i class="fal fa-barcode-read"></i></a></p>
+        </div>
+    </div>
+</div>
